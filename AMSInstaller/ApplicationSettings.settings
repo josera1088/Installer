@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AMSInstaller" GeneratedClassName="ApplicationSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MobileApi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MobileAPI</Value>
+    </Setting>
+    <Setting Name="AMSApi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AMS API</Value>
+    </Setting>
+    <Setting Name="AMSWeb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AMS Web</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
