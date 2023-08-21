@@ -119,6 +119,13 @@ namespace InstallerLenelOnGuard
             return resultado;
         }
 
+        public static string prueba()
+        {
+            string a = "";
+
+            return a;
+        }
+
 
     }
 }
